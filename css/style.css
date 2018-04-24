@@ -52,7 +52,7 @@ body {
 	background-color: #ed145b;
 }
 .hero {
-	background-image: url("/images/image.jpg");
+	background-image: url("images/image.jpg");
 	background-color: gray;
 	background-position: center;
 	background-size: cover;
