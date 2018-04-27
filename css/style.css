@@ -30,7 +30,7 @@
 .col-offset-12 {margin-left: 100%;}
 
 body {
-	width: 100vw;
+	width: 100%;
 	color: #5a5a5a;
 	font-family: 'Lato', sans-serif;
 }
@@ -86,7 +86,7 @@ body {
 	background-color: #ed145b;
 }
 .hero {
-	background-image: url("/images/image.jpg");
+	background-image: url("../images/image.jpg");
 	background-color: gray;
 	background-position: center;
 	background-size: cover;
@@ -214,7 +214,7 @@ nav ul li:first-child {
 
 
 .quote {
-	background-image: url("/images/image.jpg");
+	background-image: url("../images/image.jpg");
 	background-color: gray;
 	background-position: top;
 	background-size: cover;
@@ -378,7 +378,7 @@ nav ul li:first-child {
 
 
 .show {
-	background-image: url("/images/image.jpg");
+	background-image: url("../images/image.jpg");
 	background-color: gray;
 	background-position: center;
 	background-size: cover;
